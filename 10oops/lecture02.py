@@ -19,3 +19,6 @@ class dog(animal):
 
 d=dog()
 d.eat()
+# print(dog.mro())
+
+#? -------------------way to access base class-------------------
